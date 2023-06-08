@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1833766e7777b1cfef7340fcc08e41ac",
+    "revision": "2a634fee451873ad45eab7db21974011",
     "url": "/411_wk4_day2_protected_routes/index.html"
   },
   {
-    "revision": "1b8604d940bb9bdffb66",
+    "revision": "74d02b9aa595555ddf2f",
     "url": "/411_wk4_day2_protected_routes/static/css/main.909db9c4.chunk.css"
   },
   {
-    "revision": "85f27ae9887ed3290c03",
-    "url": "/411_wk4_day2_protected_routes/static/js/2.45163695.chunk.js"
+    "revision": "c668c4f43132c766c604",
+    "url": "/411_wk4_day2_protected_routes/static/js/2.493433ce.chunk.js"
   },
   {
-    "revision": "1b8604d940bb9bdffb66",
-    "url": "/411_wk4_day2_protected_routes/static/js/main.32d04924.chunk.js"
+    "revision": "74d02b9aa595555ddf2f",
+    "url": "/411_wk4_day2_protected_routes/static/js/main.3efee08f.chunk.js"
   },
   {
     "revision": "e1c9e8bec29a5f33d35d",
